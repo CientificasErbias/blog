@@ -10,7 +10,7 @@ comments: true
 author_profile: true
 tags:
   - Colaboradores
-date: 2021-05-02 15:30:00 +0200
+date: 2021-05-23 19:30:00 +0200
 --- 
 
 En los últimos meses, muchos hemos mirado un año atrás para recordar qué hicimos durante el largo confinamiento. Nuestras vidas se pararon; pasamos de tener planes 24/7 a tener que repensar cómo organizábamos nuestras vidas: el teletrabajo, las telentrevistas, las telequedadas con amigos y los panes de masa madre recién horneados (y descubiertos). Desde nuestra posición privilegiada, pudimos quedarnos en casa para cuidarnos y empezamos a tramar un plan. Qué mejor momento que un confinamiento para empezar a gestar un proyecto tantas veces imaginado: este blog. Un año después, aquí seguimos.
